@@ -25,7 +25,7 @@ To make a ARM cluster using cheap Pis and Docker to run local services such as P
     <td>Install OSes.</td>
     <td>✔</td>
     <th><a href="https://github.com/coenraadhuman/docker-arm-cluster/blob/master/documentation/2-install-os.md">Documentation</a></th>
-    <td>❌</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>3</td>
